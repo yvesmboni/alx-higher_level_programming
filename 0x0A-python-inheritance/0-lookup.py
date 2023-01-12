@@ -13,4 +13,4 @@ def lookup(obj):
     - obj is the object to look into
     """
 
-    return dir(obj)
+    return (dir(obj))
